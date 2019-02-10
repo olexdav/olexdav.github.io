@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/project/atus-survey/american-time-use-survey-analysis/</loc>
+      <lastmod>2019-02-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2019-01-13T21:13:14-05:00</lastmod>
     </url>
@@ -68,22 +76,6 @@
     
     <url>
     
-      <loc>/project/external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/internal-project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/publication/person-re-id/</loc>
       <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     </url>
@@ -126,24 +118,6 @@
     
     <url>
     
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/</loc>
       <lastmod>2017-10-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -154,7 +128,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <lastmod>2019-02-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -171,8 +145,17 @@
     
     <url>
     
+      <loc>/tags/r/</loc>
+      <lastmod>2019-02-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/categories/r/</loc>
-      <lastmod>2019-01-13T21:13:14-05:00</lastmod>
+      <lastmod>2019-02-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -196,7 +179,7 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <lastmod>2019-02-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -206,6 +189,33 @@
     
       <loc>/tags/welcome/</loc>
       <lastmod>2019-01-13T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/analysis/</loc>
+      <lastmod>2019-02-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/data-analysis/</loc>
+      <lastmod>2019-02-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/dataviz/</loc>
+      <lastmod>2019-02-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
